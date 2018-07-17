@@ -1,0 +1,1 @@
+python train.py --indir "flowers/" --out "checkpoints/densenet121.pth" --device "gpu" --arch "densenet121" --layers 512 --epoch 3

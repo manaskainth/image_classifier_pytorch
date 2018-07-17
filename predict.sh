@@ -1,0 +1,1 @@
+python predict.py --img 'flowers/test/19/image_06155.jpg' --checkpoint 'checkpoints/densenet121.pth' --device 'gpu' --topk 1 --map 'cat_to_name.json'
